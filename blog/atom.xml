@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/website/blog</id>
+    <id>https://indirecta.tech/blog</id>
     <title>Indirecta Blog</title>
-    <updated>2019-05-28T00:00:00.000Z</updated>
+    <updated>2023-07-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/website/blog"/>
+    <link rel="alternate" href="https://indirecta.tech/blog"/>
     <subtitle>Indirecta Blog</subtitle>
-    <icon>https://github.com/website/img/favicon.ico</icon>
+    <icon>https://indirecta.tech/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://github.com/website/blog/first-blog-post</id>
-        <link href="https://github.com/website/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <title type="html"><![CDATA[July Devlog]]></title>
+        <id>https://indirecta.tech/blog/icomm15</id>
+        <link href="https://indirecta.tech/blog/icomm15"/>
+        <updated>2023-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[⚙️ Hello Indirecta enthusiasts!]]></summary>
+        <content type="html"><![CDATA[<img loading="lazy" alt="" src="/img/indirecta_logo_medium500_withPill.png" height="300px" class="img_ev3q"><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-hello-indirecta-enthusiasts">⚙️ Hello Indirecta enthusiasts!<a href="#️-hello-indirecta-enthusiasts" class="hash-link" aria-label="Direct link to ⚙️ Hello Indirecta enthusiasts!" title="Direct link to ⚙️ Hello Indirecta enthusiasts!">​</a></h3><p>This is our attempt to transfer important news to our community in a different way :)</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-website-domain-change">🌐 Website Domain Change<a href="#-website-domain-change" class="hash-link" aria-label="Direct link to 🌐 Website Domain Change" title="Direct link to 🌐 Website Domain Change">​</a></h2><p>Thanks to our wonderful pal at <a href="https://discord.gg/parking" target="_blank" rel="noopener noreferrer">Car Parking Level 7</a>, <em>galacticinspired</em>, we've been able to switch website domain to a sleeker</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-indirectatech-">🥁.. <a href="https://indirecta.tech" target="_blank" rel="noopener noreferrer">indirecta.tech</a> 🎆<a href="#-indirectatech-" class="hash-link" aria-label="Direct link to -indirectatech-" title="Direct link to -indirectatech-">​</a></h3><p>You'll now be spending a lot less time navigating to our website, or perhaps sharing it 😎</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-icomm-15-beta-release">🎙️ iComm 1.5 Beta Release<a href="#️-icomm-15-beta-release" class="hash-link" aria-label="Direct link to 🎙️ iComm 1.5 Beta Release" title="Direct link to 🎙️ iComm 1.5 Beta Release">​</a></h2><ul><li>⭕ New <a href="/docs/FOSD/iComm/applications#circle-apps">circle apps</a>: Record Firewall &amp; Walkie Talkie, an alternatie to the traditional firewall remote and a simpler way to communicate</li><li>🗺️ D-Pad movement &amp; optimizations come to the Map application! Switch modes using the left function key <code>LFN</code></li><li>🛰️ Radiocomm now supports Roblox's new <code>TextChatService</code> along with SOS &amp; editable frequency textbox</li><li>🔧 Tool Model changes to support for the upcoming cradle, and flashlight fixes</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-icomm-installation-service">🧑‍💻 iComm+ Installation Service<a href="#-icomm-installation-service" class="hash-link" aria-label="Direct link to 🧑‍💻 iComm+ Installation Service" title="Direct link to 🧑‍💻 iComm+ Installation Service">​</a></h2><p>Introducing iComm+! A paid install service that allows for custom devices, apps, and accessories running on the iComm firmware you know and love.
+This is still experimental, prices are guaranteed to change and there are no refunds.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-our-awesome-partnership-with-scada">🤝 Our awesome partnership with Scada<a href="#-our-awesome-partnership-with-scada" class="hash-link" aria-label="Direct link to 🤝 Our awesome partnership with Scada" title="Direct link to 🤝 Our awesome partnership with Scada">​</a></h2><p>Yes, we've partnered with Scada! You make know them as the group behind the Ae Expanse, SmartDMX, or Hanover.
+We recommend checking them out if you aren't already in their server, and trying out their products.
+Who knows what cool stuff could come out in the future?
+Check all of our partners on the main home page!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-were-still-looking-for-testers">⚗️ <a href="/docs/beta-testers">We're still looking for testers!</a><a href="#️-were-still-looking-for-testers" class="hash-link" aria-label="Direct link to ️-were-still-looking-for-testers" title="Direct link to ️-were-still-looking-for-testers">​</a></h2>]]></content>
         <author>
             <name>lollodev5123</name>
             <uri>https://github.com/LolloDev5123</uri>
         </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="development" term="development"/>
+        <category label="icomm" term="icomm"/>
     </entry>
 </feed>
